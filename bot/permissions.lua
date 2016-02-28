@@ -1,5 +1,6 @@
 local sudos = {
     "plugins",
+    "info",
     "rank_admin",
     "bot",
     "lang_install",
@@ -8,6 +9,7 @@ local sudos = {
   }
  local admins = {
  	"rank_mod",
+        "info",
  	"gban",
  	"ungban",
  	"setrules",
@@ -21,6 +23,7 @@ local sudos = {
 local mods = {
 	"whois",
 	"kick",
+        "info",
 	"add",
 	"ban",
 	"unban",
